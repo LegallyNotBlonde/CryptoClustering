@@ -3,7 +3,7 @@ ___
 
 ## Project Summary: Cryptocurrency Clustering Using Unsupervised Machine Learning
 
-<p> This project demonstrates the application of **unsupervised machine learning** techniques to segment and analyze cryptocurrencies, focusing on Bitcoin, based on their behavior and correlation patterns. The objective is to explore the structure within the data using clustering algorithms to identify hidden patterns and natural groupings among cryptocurrencies.
+<p> This project demonstrates the application of __unsupervised machine learning__ techniques to segment and analyze cryptocurrencies, focusing on Bitcoin, based on their behavior and correlation patterns. The objective is to explore the structure within the data using clustering algorithms to identify hidden patterns and natural groupings among cryptocurrencies.
 
 ___
 
@@ -13,7 +13,7 @@ ___
 ___
 
 ## Methodology:
-<p> I used **StandardScaler** to normalize the data, followed by **PCA** to reduce dimensionality, capturing 88.44% of the variance. I then applied **K-Means clustering**, using the **Elbow method** to determine the optimal number of clusters (k=4). The results were visualized with **scatter plots**, showing clear cluster separation.
+<p> I used __StandardScaler__ to normalize the data, followed by __PCA__ to reduce dimensionality, capturing 88.44% of the variance. I then applied __K-Means clustering__, using the __Elbow method__ to determine the optimal number of clusters (k=4). The results were visualized with __scatter plots__, showing clear cluster separation.
 
 ___
 
@@ -24,4 +24,4 @@ ___
 ___
 
 ## Conclusion:
-<p> This project demonstrates the successful use of **unsupervised machine learning** to segment cryptocurrencies based on their performance metrics. By using **K-Means clustering** and **PCA**, we were able to identify meaningful clusters that could potentially be used for further market analysis or investment strategies. The fictitious dataset used here illustrates my ability to implement these techniques effectively in real-world scenarios.
+<p> This project demonstrates the successful use of unsupervised machine learning to segment cryptocurrencies based on their performance metrics. By using K-Means clustering and PCA, we were able to identify meaningful clusters that could potentially be used for further market analysis or investment strategies. The fictitious dataset used here illustrates my ability to implement these techniques effectively in real-world scenarios.
